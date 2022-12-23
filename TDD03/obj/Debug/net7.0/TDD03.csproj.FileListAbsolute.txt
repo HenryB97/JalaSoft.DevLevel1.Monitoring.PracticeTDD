@@ -1,0 +1,12 @@
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\bin\Debug\net7.0\TDD03.deps.json
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\bin\Debug\net7.0\TDD03.dll
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\bin\Debug\net7.0\TDD03.pdb
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\TDD03.csproj.AssemblyReference.cache
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\TDD03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\TDD03.AssemblyInfoInputs.cache
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\TDD03.AssemblyInfo.cs
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\TDD03.csproj.CoreCompileInputs.cache
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\TDD03.dll
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\refint\TDD03.dll
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\TDD03.pdb
+E:\Software Development\Monitoring\Practices\TDD03\TDD03\obj\Debug\net7.0\ref\TDD03.dll
